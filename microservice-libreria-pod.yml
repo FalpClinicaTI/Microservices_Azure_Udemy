@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
     - name: microservice-libreria-app
-      image: vaxidrez/serviciosapilibreria:latest
+      image: gcctec/serviciosapilibreria:latest
       ports:
         - containerPort: 80
       env:

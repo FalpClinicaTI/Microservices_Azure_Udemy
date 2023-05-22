@@ -20,7 +20,7 @@ spec:
         spec:
           containers:
             - name: mongo
-              image: mongo:4.2.12
+              image: mongo
               command:
               - /bin/bash
               - -c

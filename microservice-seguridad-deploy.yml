@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: microservice-seguridad-app
-          image: vaxidrez/serviciosapiseguridad:v3.#{Build.BuildId}#
+          image: gcctec/serviciosapiseguridad:latest
           ports:
             - containerPort: 80
           env:

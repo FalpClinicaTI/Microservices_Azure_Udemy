@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
     - name: microservice-seguridad-app
-      image: vaxidrez/serviciosapiseguridad:latest
+      image: gcctec/serviciosapiseguridad:latest
       ports:
         - containerPort: 80
       env:
