@@ -90,7 +90,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "microservice-seguridad-service",
+          "Host": "microservice-libreria-service",
           "Port": "80"
         }
       ],
@@ -106,7 +106,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "microservice-seguridad-service",
+          "Host": "microservice-libreria-service",
           "Port": "80"
         }
       ],
@@ -122,7 +122,7 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "microservice-seguridad-service",
+          "Host": "microservice-libreria-service",
           "Port": "80"
         }
       ],
